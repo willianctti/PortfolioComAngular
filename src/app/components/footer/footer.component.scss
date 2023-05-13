@@ -1,0 +1,49 @@
+:host {
+    section#last h2 {
+        text-align: center;
+        font-size: 3em;
+        color: white;
+        margin-top: 40px;
+        margin-bottom: 60px;
+        text-shadow: 2px 2px 0px rgb(17, 17, 17);
+    }
+    
+    div#rs {
+        display: flex;
+        justify-content: center;
+    }
+    
+    div#rs img {
+        width: 90px;
+        height: 80px;
+        margin: 20px;
+    }
+    
+    h5 {
+        text-align: center;
+        font-size: 2em;
+        color: white;
+        margin-top: 80px;
+        text-shadow: 1px 1px 0px rgb(48, 48, 48);
+    }
+    
+    h1 {
+        text-align: center;
+        font-size: 3em;
+        
+        color: white;
+        margin-top: 80px;
+        text-shadow: 1px 1px 0px rgb(83, 83, 83);
+    }
+    
+    footer {
+        padding-top: 100px;
+        text-align: center;
+    }
+    
+    footer p {
+        font-size: 1.1em;
+        color: gray;
+        text-decoration: overline;
+    }
+}
